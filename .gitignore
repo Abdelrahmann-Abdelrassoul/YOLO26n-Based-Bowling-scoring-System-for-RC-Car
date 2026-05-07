@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Env
+.env
+
+# Node/Expo (top-level convenience)
+node_modules/
+.expo/
+dist/
+web-build/
+
+OutputVideoMilestones/
+
+CLAUDE.md
+
+Docs/
+
+*.tex
